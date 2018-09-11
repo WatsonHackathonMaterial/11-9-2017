@@ -11,9 +11,6 @@
 * Watson Natural Language Understanding
   * Video: https://www.youtube.com/watch?v=MB4ynlq52C4
   * Demo: https://natural-language-understanding-demo.mybluemix.net/ 
-* Watson Speech-to-Text/Text-to-Speech & Language Translation 
-  * Demo: https://text-to-speech-demo.mybluemix.net/
-  * Demo: https://speech-to-text-demo.mybluemix.net/
 * Watson Discovery
   * Video: https://youtu.be/9ks-cEG6KPs
   * Demo: https://discovery-news-demo.mybluemix.net/
